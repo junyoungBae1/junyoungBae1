@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm JunYoung BAE 👋
 
-<!--
-**junyoungBae1/junyoungBae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱 About Me
 
-Here are some ideas to get you started:
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://feather-secure-584.notion.site/7472bf398fd249c2b7f50544000ae4fd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏅 Algorithm Gold Level. 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy556)](https://solved.ac/bjy556)
+
+
+
